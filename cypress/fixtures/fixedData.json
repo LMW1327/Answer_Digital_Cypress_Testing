@@ -1,0 +1,8 @@
+{
+  "GoodUsername": "standard_user",
+  "Locked_OutUsername": "locked_out_user",
+  "ProblemUser":"problem_user",
+  "Performance_IssueUsername": "performance_glitch_user",
+  "password": "secret_sauce",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
